@@ -464,7 +464,7 @@ def main():
     # printing the board before and after it is solved
     print_board(BD4)
     print()
-    print_board(solve_sudoku(BD4s))
+    print_board(solve_sudoku(BD4))
 
 
 if __name__ == "__main__":
