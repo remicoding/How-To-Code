@@ -4,5 +4,5 @@
    This introductory computer science course emphasizes <b>Functional Programming</b>.</p>
 <p>Projects:</p>
 <ul>
-    <li>Sudoku Solver</li>
+    <li>Sudoku Solver - using generative recursion and backtracking search</li>
 </ul>
