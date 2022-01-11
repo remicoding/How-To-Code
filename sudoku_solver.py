@@ -1,3 +1,10 @@
+"""
+Remi Coding
+Sudoku Solver from How to Code: Complex Data
+Edx
+"""
+
+
 def create_board():
     """Returns a list of zeros representing an empty sudoku baord"""
     return [i * 0 for i in range(1, 82)]
