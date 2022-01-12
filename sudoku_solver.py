@@ -6,7 +6,7 @@ Edx
 
 
 def create_board():
-    """Returns a list of zeros representing an empty sudoku baord"""
+    """Returns a list of zeros representing an empty sudoku board"""
     return [i * 0 for i in range(1, 82)]
 
 
